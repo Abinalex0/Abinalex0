@@ -19,9 +19,9 @@
 
 ---
 <!-- 📊 GitHub Stats -->
-![Stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical)
-![Top Langs](https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Abinalex0&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinalex0&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Abinalex0&theme=radical)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical&cache_bust=12)
 
