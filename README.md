@@ -19,7 +19,9 @@
 
 ---
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical&cache_bust=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinalex0&layout=compact&theme=radical)
+
 
 
 
