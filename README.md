@@ -48,4 +48,5 @@
 - 📧 Email: abinalex125@gmail.com
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
