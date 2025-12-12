@@ -19,7 +19,8 @@
 
 ---
 <!-- 📊 GitHub Stats -->
-<img src="https://streak-stats.demolab.com/?user=Abinalex0&theme=radical"/>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Abinalex0&theme=radical)
+
 
 
 
