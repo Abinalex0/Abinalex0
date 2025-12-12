@@ -21,10 +21,10 @@
 <!-- 📊 GitHub Stats -->
 
 
-<p align="center">
+### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Abinalex0&theme=radical)
 
-</p>
+
 
 
 
