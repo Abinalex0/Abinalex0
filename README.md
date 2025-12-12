@@ -18,7 +18,9 @@
 **Other:** JWT • REST API • Deployment (Vercel / Render)
 
 ---
-<!-- 📊 GitHub Stats -->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical)
+
 
 
 ### 🔥 Streak Stats
