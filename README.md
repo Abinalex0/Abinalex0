@@ -29,7 +29,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abinalex0&theme=radical" />
+  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinalex0)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 
