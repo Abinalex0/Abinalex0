@@ -19,11 +19,12 @@
 
 ---
 <!-- 📊 GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical&cache_bust=1)
+![Stats](https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical)
+![Top Langs](https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Abinalex0&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinalex0&layout=compact&theme=radical&cache_bust=1)
 
-![Streak](https://streak-stats.demolab.com/?user=Abinalex0&theme=radical&cache_bust=1)
+![Stats](https://github-readme-stats.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical&cache_bust=12)
+
 
 
 
