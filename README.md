@@ -18,17 +18,18 @@
 **Other:** JWT • REST API • Deployment (Vercel / Render)
 
 ---
-### 📊 GitHub Stats
+<!-- 📊 GitHub Stats -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrk-sharmacodes-projects.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats-git-masterrk-sharmacodes-projects.vercel.app/api/top-langs/?username=Abinalex0&layout=compact&theme=radical" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=Abinalex0&show_icons=true&theme=radical" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinalex0&layout=compact&theme=radical" />
 </p>
 
-
----
-
-### 🔥 Streak Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinalex0)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 🔥 Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abinalex0&theme=radical" />
+</p>
 
 
 ---
